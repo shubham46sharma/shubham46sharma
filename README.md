@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-❓ Ask me about anything related to MERN stack and related technologies
-
-⚡ Fun fact: I use tabs over spaces
 
 
 -->
+
 # 💫 About Me:
+
 Welcome to my GitHub profile. <br>I am a computer science graduate from the University of California, Riverside. I aspire to be a valuable resource to an esteemed organization and help develop software that is going to meet individual client needs.<br>
 
+⚡ Fun fact: I use tabs over spaces
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham46sharma) 
